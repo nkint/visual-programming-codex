@@ -577,6 +577,24 @@ There are a lot of nice features. One, shown above, is a profiler that colors no
 
 <br><br><br><br>
 
+![](https://pbs.twimg.com/media/Fpru7w-XgAESEWT?format=jpg&name=large)
+
+# [Nodl](usenodl.dev)
+by [Emil Widlund](https://www.emilwidlund.com/)
+
+> [Open sourced](https://github.com/emilwidlund/nodl) framework for visual node graphs. It has a core library & a React-library as of now, runs on MobX and leverages the power of RxJS & Zod for computational magic.
+
+Browser based for shader programming (can export GLSL code).
+
+<br>
+
+![](assets/nodes-profiler.jpg)
+
+There are a lot of nice features. One, shown above, is a profiler that colors nodes based on the amount of CPU they burn each frame.
+
+
+<br><br><br><br>
+
 
 # [NoFlo](https://noflojs.org)
 
